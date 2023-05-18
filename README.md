@@ -5,11 +5,10 @@ This is a web project about a pokedex
 ## 🚀 Tech stack
 
 <p align="center">
-
-  <a href="https://nestjs.com" title="Nest"><img width=32 height=32 src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="Nest logo"></a>
 	<a href="https://www.typescriptlang.org" title="Typescript"><img width=32 height=32 src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="Typescript logo"></a>
-  <a href="https://react.dev" title="React"><img width=32 height=32 src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo"></a>
-  <a href="https://vitejs.dev" title="Vite"><img width=32 height=32 src="https://vitejs.dev/logo.svg" alt="Vite logo"></a>
+  	<a href="https://nestjs.com" title="Nest"><img width=32 height=32 src="https://d33wubrfki0l68.cloudfront.net/e937e774cbbe23635999615ad5d7732decad182a/26072/logo-small.ede75a6b.svg" alt="Nest logo"></a>
+  	<a href="https://react.dev" title="React"><img width=32 height=32 src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React logo"></a>
+ 	<a href="https://vitejs.dev" title="Vite"><img width=32 height=32 src="https://vitejs.dev/logo.svg" alt="Vite logo"></a>
 </p>
 
 ## 🏗️ How to setup the project
