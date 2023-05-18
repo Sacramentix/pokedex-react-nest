@@ -11,7 +11,7 @@ function App() {
       {pokemons.loading && <div className='loader'></div>}
       <section>
         { pokemons.data.map(pokemon=>
-          <PokeCard  {...pokemon}/>
+          <PokeCard key={pokemon.id}  {...pokemon}/>
         )}
       </section>
     </main>
