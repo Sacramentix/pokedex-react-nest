@@ -17,8 +17,8 @@ This is a web project about a pokedex
 #### Clone the project
 - First clone the project on your local computer
 ```
-git clone https://github.com/Sacramentix/...
-cd ...
+git clone https://github.com/Sacramentix/pokedex-react-nest
+cd pokedex-react-nest
 ```
 
 #### Node js
