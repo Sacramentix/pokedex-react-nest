@@ -1,0 +1,16 @@
+{
+  "name": "pokedex",
+  "version": "1.0.0",
+  "description": "a pokedex",
+  "main": "index.js",
+  "scripts": {
+    "back:install": "cd poke-api && npm i",
+    "front:install": "cd poke-react && npm i",
+    "install": "npm run back:install && npm run front:install",
+    "i": "npm run install",
+    "back:dev": "cd poke-api && npm run start:dev",
+    "front:dev": "cd poke-react && npm run dev"
+  },
+  "author": "",
+  "license": "ISC"
+}

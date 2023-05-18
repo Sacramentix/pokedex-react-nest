@@ -1,0 +1,34 @@
+.poke-card {
+    width: 60ch;
+    max-width: 100%;
+    background: hsl(194, 30%, 13%);
+    color: #fff;
+    border-radius: 15px;
+    padding: 15px;
+    display: grid;
+    grid-template-areas:
+    "h2  h2 "
+    "img div"
+    "p   p  ";
+    /* The name of the pokemon */
+    > h2 {
+        grid-area: h2;
+        width: 100%;
+        text-align: center;
+    }
+    /* The block that contain various info about the pokemon */
+    > div {
+        grid-area: div;
+    }
+    /* The short flavor text about the pokemon */
+    > p {
+        grid-area: p;
+        text-align: center;
+    }
+    /* The sprite of the pokemon*/
+    > img {
+        grid-area: img;
+        place-self: center;
+
+    }
+}
