@@ -2,6 +2,9 @@
 
 This is a web project about a pokedex
 
+![image](https://github.com/Sacramentix/pokedex-react-nest/assets/35272156/acd1eee3-fb6e-44af-9c69-5e0f519d5b28)
+
+
 ## 🚀 Tech stack
 
 <p align="center">
